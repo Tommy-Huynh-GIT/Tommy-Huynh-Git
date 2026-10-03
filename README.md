@@ -1,8 +1,8 @@
 # Hey, I'm Tommy 👋
 
-Computer Science student at **Carleton University** working toward becoming an **AI Engineer**.
+Computer Science student at **Carleton University** working toward becoming a **Full-Stack + AI Engineer**.
 
-I'm interested in building **AI-powered applications, intelligent agents, backend systems, and the infrastructure behind them.**
+I'm interested in building **AI agents, intelligent applications, backend systems, and the infrastructure behind them.**
 
 ## 🤖 What I'm Building
 
