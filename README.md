@@ -14,7 +14,7 @@ I'm interested in building **AI agents, intelligent applications, backend system
 ## 🧠 Tech
 
 **AI / LLMs**  
-Python • LangGraph • OpenAI APIs • Claude • Whisper • RAG
+Python • LangGraph • RAG • NLP • AI Agents • LLM Tooling • Codex • Claude
 
 **Backend / Data**  
 FastAPI • Flask • REST APIs • PostgreSQL • SQL
