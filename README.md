@@ -1,38 +1,46 @@
 # Hey, I'm Tommy 👋
 
-Computer Science student at **Carleton University** focused on becoming an **AI Engineer**.
+Computer Science student at **Carleton University** working toward becoming an **AI Engineer**.
 
-I like building products that combine **AI, full-stack development, automation, and real-world problems**.
+I'm interested in building **AI-powered applications, intelligent agents, backend systems, and the infrastructure behind them.**
 
-### 🚀 What I'm building
+## 🤖 What I'm Building
 
-- 🏀 **ArcLab** — AI/computer-vision basketball shooting analysis using Next.js, TypeScript, MediaPipe, PostgreSQL & Prisma
-- 🧠 **Aphasia Bridge** — AI-powered communication assistant for people with aphasia using React Native, TypeScript, Python, Whisper & LLMs
-- 🤖 **Ottawa Automated Internship Tracker** — automated job discovery system using Python, browser automation, FastAPI & PostgreSQL
-- 🧪 Experimenting with **AI agents, LangGraph, Docker, cloud infrastructure, and RAG**
+- 🧠 **Aphasia Bridge** — AI-powered communication assistant using React Native, TypeScript, Python, Whisper, and LLMs
+- 🔎 **Ottawa Automated Internship Tracker** — automated job discovery system using Python, browser automation, FastAPI, and PostgreSQL
+- 📄 **AI Resume Agent** — experimenting with agents that turn job descriptions into tailored LaTeX resumes and cover letters
+- 🧩 Building with **LangGraph** to learn stateful and multi-step AI workflows
 
-### 🛠 Tech
+## 🧠 Tech
 
-**Languages**  
-Python • TypeScript • JavaScript • Java • C# • SQL
+**AI / LLMs**  
+Python • LangGraph • OpenAI APIs • Claude • Whisper • RAG
 
-**Web / Backend**  
-React • Next.js • React Native • Node.js • FastAPI • Flask • REST APIs
+**Backend / Data**  
+FastAPI • Flask • REST APIs • PostgreSQL • SQL
 
-**AI / Automation**  
-LLMs • OpenAI APIs • Claude • Whisper • MediaPipe • Playwright
+**Development**  
+TypeScript • JavaScript • React • Node.js • Java • C#
 
-**Infrastructure / Tools**  
-Docker • PostgreSQL • Prisma • Git • GitHub Actions • Azure DevOps
+**Currently Exploring**  
+Docker • AWS • Kubernetes • Vector Databases • Embeddings
 
-### 📈 Currently leveling up
+## 🔬 Currently Experimenting With
 
-- AI engineering & agentic systems
-- LangGraph
-- RAG & vector search
-- Docker & Kubernetes
-- Cloud deployment
-- Data structures & algorithms
+- Stateful and multi-agent systems
+- Retrieval-Augmented Generation
+- Vector search and embeddings
+- Deploying AI applications with **Docker + AWS**
+- Kubernetes and scalable AI infrastructure
+- AI evaluation and observability
+
+## 🎯 Where I'm Headed
+
+I'm especially interested in:
+
+**AI Engineering × Backend Systems × Cloud Infrastructure**
+
+I want to learn how to build AI systems that aren't just demos, but are **reliable, scalable, and useful in production**.
 
 ---
 
